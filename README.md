@@ -41,5 +41,5 @@ Las contribuciones son bienvenidas. Puedes hacer un fork del repositorio, mejora
 
 ## Licencia
 
-Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente.
+Este proyecto no está bajo licencia. Puedes usarlo y modificarlo libremente.
 
